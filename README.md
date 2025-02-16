@@ -12,3 +12,6 @@ Start:
 2. it will visit their profiles, and try to act human by randomized logic movements before checking out the next profile
 
 The endresult looks ruffly like this. Out of 100 people, 10 people will see your profile and 1-2 people will try to make contact.
+
+
+![Screenshot from 2025-02-16 15-02-29](https://github.com/user-attachments/assets/d727ea9d-aeb3-4b1f-b4cf-f0af32f0a30f)
