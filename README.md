@@ -14,4 +14,5 @@ Start:
 The endresult looks ruffly like this. Out of 100 people, 10 people will see your profile and 1-2 people will try to make contact.
 
 
-![Screenshot from 2025-02-16 15-02-29](https://github.com/user-attachments/assets/d727ea9d-aeb3-4b1f-b4cf-f0af32f0a30f)
+![Screenshot from 2025-02-16 15-04-26](https://github.com/user-attachments/assets/ebb7eb38-5782-4cc9-b14c-33304f3aded7)
+
