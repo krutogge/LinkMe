@@ -2,6 +2,7 @@
 Tired of the modern recruiting? Cant stand corporate language? let the recruiters come to you by automatic networking on LinkedIn. Chill around and let them come to you with an offer instead of being the kneedog to the corporate management.
 
 LinkMe is the first version of automating linkedin to increase the amount of visitors to your profile. 
+
 Setup:
 - type in your login to linkedin
 - add your browser directory (it will show linkedin that you have history from other sites, hidden in the crowd)
